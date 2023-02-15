@@ -1,1 +1,1 @@
-# Quiz-Hero---Medical-Admission
+#Quiz Hero
