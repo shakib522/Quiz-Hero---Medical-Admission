@@ -31,7 +31,7 @@ A e-learning platform in which student can give unlimited model test exam and li
 - Redis
 ### Client Side
 - Use Kotlin and XML
-- Use Retrofit,Dagger-Hilt,Coroutine,Livedata for network call
+- Use Retrofit,Dagger-Hilt,Coroutine,Livedata,Databinding for network call
 - Using android Jetpack library
 - Architecture MVVM
 - Integrate websocket from OkHttp3 library
