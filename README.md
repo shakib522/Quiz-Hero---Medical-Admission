@@ -4,6 +4,13 @@
 An e-learning platform in which student can give unlimited model test exam and live quiz exam.And see the progress of every subject,every chapter.
 
 
+## Screenshots
+
+
+![](https://user-images.githubusercontent.com/53580076/221098427-831c6d77-f9ac-47de-9dc9-e472737c725f.png)
+
+
+![](https://user-images.githubusercontent.com/53580076/221098394-39eb86aa-6cff-4043-a21d-83a8202475d4.png)
 ## Features
 
 - Unlimited Model Test
@@ -28,13 +35,5 @@ An e-learning platform in which student can give unlimited model test exam and l
 - Django
 - Redis
 
-## Screenshots
-![](https://user-images.githubusercontent.com/53580076/221098142-4e6ce751-d53a-41ba-87b9-b718310616a7.png)
-
-## first
-
-![](https://user-images.githubusercontent.com/53580076/221098427-831c6d77-f9ac-47de-9dc9-e472737c725f.png)
-
-## second 
-![](https://user-images.githubusercontent.com/53580076/221098394-39eb86aa-6cff-4043-a21d-83a8202475d4.png)
 ## Playstore Download link
+https://play.google.com/store/apps/details?id=ltd.tinkers.quizhero
