@@ -26,6 +26,7 @@ An e-learning platform in which student can give unlimited model test exam and l
 - Use Retrofit,Dagger-Hilt,Coroutine,Livedata for network call
 - Using android Jetpack library
 - Single activity  architecture with MVVM
+- Separate common code by inheritance
 - Integrate websocket by OkHttp3 library 
 - Manage version control with git & github
 
