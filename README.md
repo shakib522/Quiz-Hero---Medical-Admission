@@ -28,7 +28,8 @@ An e-learning platform in which student can give unlimited model test exam and l
 - Single activity  architecture with MVVM and navigation component
 - Separate common code.All nececessary code for fragment is placed on a base fragment and extend by all fragment
 - Some optimization: Optimize recyclerview using DiffUtil and ListAdapter.Replace nested recyclerview by convert the       nested list to a single list using inheritance and multiple ViewType
-- Seperate common design in xml layout for reduce boilerplate
+- Seperate common design in xml layout for reduce boilerplate code
+- Handle error for api call in only one time using safeApiCall.Create a baseViewModel and extend by all viewmodel for handle defult error from server
 - Integrate websocket by OkHttp3 library 
 - Manage version control with git & github
 
