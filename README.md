@@ -25,8 +25,10 @@ An e-learning platform in which student can give unlimited model test exam and l
 - Use Kotlin and XML
 - Use Retrofit,Dagger-Hilt,Coroutine,Livedata for network call
 - Using android Jetpack library
-- Single activity  architecture with MVVM
-- Separate common code by inheritance
+- Single activity  architecture with MVVM and navigation component
+- Separate common code.All nececessary code for fragment is placed on a base fragment and extend by all fragment
+- Some optimization: Optimize recyclerview using DiffUtil and ListAdapter.Replace nested recyclerview by convert the       nested list to a single list using inheritance and multiple ViewType
+- Seperate common design in xml layout for reduce boilerplate
 - Integrate websocket by OkHttp3 library 
 - Manage version control with git & github
 
