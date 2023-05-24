@@ -1,5 +1,5 @@
 
-# Quiz Hero - Medical Admission
+# Quiz Hero
 
 An e-learning platform in which student can give unlimited model test exam and live quiz exam.And see the progress of every subject,every chapter.
 
@@ -32,6 +32,7 @@ An e-learning platform in which student can give unlimited model test exam and l
 - Handle error for api call in only one time using safeApiCall.Create a baseViewModel and extend by all viewmodel for handle defult error from server
 - Integrate websocket by OkHttp3 library 
 - Manage version control with git & github
+- Full responsive user interface
 
 ### Server Side
 - Node js
