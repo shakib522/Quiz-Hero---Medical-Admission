@@ -1,5 +1,5 @@
 
-# Quiz Hero
+# Quiz Hero - Admission Quiz
 
 An e-learning platform in which student can give unlimited model test exam and live quiz exam.And see the progress of every subject,every chapter.
 
